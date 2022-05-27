@@ -1,16 +1,17 @@
 # cron_job_example
 
-A new Flutter project.
+A Flutter example for Cron Job.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project covers how to schedule & cancel task using cron job.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##Packages Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+	[cron](https://pub.dev/packages/cron)
+	
+
+Watch below [Youtube](https://www.youtube.com/watch?v=5h6NI4SuBvY) video for the code walkthrough,
+
+[![Cron Job example](https://img.youtube.com/vi/5h6NI4SuBvY/0.jpg)](https://www.youtube.com/watch?v=5h6NI4SuBvY)
