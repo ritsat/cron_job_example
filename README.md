@@ -7,13 +7,13 @@ A Flutter example for Cron Job.
 This project covers how to schedule & cancel task using cron job.
 
 
-## Packages Used
+## Dependencies
 
-[cron](https://pub.dev/packages/cron)
+[cron](https://pub.dev/packages/cron)  - It is used to schedule the task.
 	
 ##
 	
 
-Watch below [Youtube](https://www.youtube.com/watch?v=5h6NI4SuBvY) video for the code walkthrough,
+Watch below [Youtube](https://www.youtube.com/watch?v=3VvmplCs16I) video for the code walkthrough,
 
-[![Cron Job example](https://img.youtube.com/vi/5h6NI4SuBvY/0.jpg)](https://www.youtube.com/watch?v=5h6NI4SuBvY)
+[![Cron Job example](https://img.youtube.com/vi/3VvmplCs16I/0.jpg)](https://www.youtube.com/watch?v=3VvmplCs16I)
